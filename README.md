@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**WayneMorganUK/WayneMorganUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**WayneMorganUK** is a ✨ _special_ ✨ repository 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on invading Russia
+- 🌱 I’m currently learning to fly
+- 👯 I’m looking to collaborate on grand larceny
+- 🤔 I’m looking for help with finding my way home
+- 💬 Ask me about the war
+- 📫 How to reach me: Speak to my agent
+- 😄 Pronouns: It/Thing
+- ⚡ Fun fact: 2 + 2 = 4
+

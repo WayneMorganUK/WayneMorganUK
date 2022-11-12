@@ -90,5 +90,5 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <!--  Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
  
 
-- Also available on [Twitter](https://twitter.com/athenadesigns) 
+- Also available on [Twitter](https://twitter.com/athena-designs) 
 

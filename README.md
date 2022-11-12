@@ -34,7 +34,8 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 ### 🛠 &nbsp;Tech Stack
 
 #### &nbsp; Frontend
-![Sveltekit](https://img.shields.io/badge/-SvelteKit-05122A?style=flat&logo=sveltekit)
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?style=flat&logo=svelte)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=FFA518)&nbsp;

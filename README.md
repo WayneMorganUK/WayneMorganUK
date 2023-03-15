@@ -25,7 +25,7 @@ Specially ! Sveltekit</h3>
 <p>I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.</p>
 <a 
 style="background: #24292e; padding: 5px 15px; color: #fff; border-radius: 5px;margin: 10px 0; display: inline-block"
-href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
+href="https://athena-designs.com/">WANT TO KNOW MORE?</a>
 
 
 <br />

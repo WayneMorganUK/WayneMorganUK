@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>I'm Wayne Morgan! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=waynemorganuk/waynemorganuk)](https://github.com/waynemorganuk) [![GitHub followers](https://img.shields.io/github/followers/waynemorganuk.svg?style=social&label=Follow)](https://github.com/waynemorganuk/tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=waynemorganuk/waynemorganuk)](https://github.com/waynemorganuk) [![GitHub followers](https://img.shields.io/github/followers/waynemorganuk.svg?style=social&label=Follow)](https://github.com/waynemorganuk?tab=followers)
 
 <h3>In ♥️ with 👩🏽‍💻 Coding, and Photgraphy📷 and Cycling
   <br />
